@@ -1,0 +1,12 @@
+#################
+## Eclipse
+#################
+
+*.pydevproject
+.project
+.classpath
+.settings/
+temp/
+build/
+
+
