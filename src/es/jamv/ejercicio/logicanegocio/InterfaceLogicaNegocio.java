@@ -1,9 +1,9 @@
 /**
  * 
  */
-package es.sherpa.ejercicio.logicanegocio;
+package es.jamv.ejercicio.logicanegocio;
 
-import es.sherpa.ejercicio.modelo.Modelo;
+import es.jamv.ejercicio.modelo.Modelo;
 
 /**
  * @author joseangel.martinez

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package es.sherpa.ejercicio.modelo;
+package es.jamv.ejercicio.modelo;
 
 /**
  * @author joseangel.martinez

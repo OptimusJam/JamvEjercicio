@@ -1,7 +1,7 @@
 /**
  * 
  */
-package es.sherpa.ejercicio.pruebas;
+package es.jamv.ejercicio.pruebas;
 
 import javax.ws.rs.core.MediaType;
 
@@ -15,8 +15,8 @@ import org.junit.Test;
 import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.WebResource;
 
-import es.sherpa.ejercicio.modelo.MensajesRespuesta;
-import es.sherpa.ejercicio.modelo.Modelo;
+import es.jamv.ejercicio.modelo.MensajesRespuesta;
+import es.jamv.ejercicio.modelo.Modelo;
 
 /**
  * @author joseangel.martinez

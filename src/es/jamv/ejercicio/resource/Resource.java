@@ -1,4 +1,4 @@
-package es.sherpa.ejercicio.resource;
+package es.jamv.ejercicio.resource;
 
 import javax.validation.constraints.Digits;
 import javax.validation.constraints.NotNull;
@@ -8,9 +8,9 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import es.sherpa.ejercicio.logicanegocio.FactoriaLogicaNegocio;
-import es.sherpa.ejercicio.logicanegocio.InterfaceLogicaNegocio;
-import es.sherpa.ejercicio.modelo.Modelo;
+import es.jamv.ejercicio.logicanegocio.FactoriaLogicaNegocio;
+import es.jamv.ejercicio.logicanegocio.InterfaceLogicaNegocio;
+import es.jamv.ejercicio.modelo.Modelo;
 
 /**
  * @author joseangel.martinez

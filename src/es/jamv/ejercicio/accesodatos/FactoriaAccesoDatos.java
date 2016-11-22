@@ -1,7 +1,7 @@
 /**
  * 
  */
-package es.sherpa.ejercicio.accesodatos;
+package es.jamv.ejercicio.accesodatos;
 
 
 /**

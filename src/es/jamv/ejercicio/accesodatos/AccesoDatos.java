@@ -1,7 +1,7 @@
 /**
  * 
  */
-package es.sherpa.ejercicio.accesodatos;
+package es.jamv.ejercicio.accesodatos;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -11,9 +11,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Properties;
 
-import com.mysql.jdbc.PreparedStatement;
-
-import es.sherpa.ejercicio.modelo.MensajesRespuesta;
+import es.jamv.ejercicio.modelo.MensajesRespuesta;
 
 /**
  * @author joseangel.martinez
@@ -22,7 +20,7 @@ import es.sherpa.ejercicio.modelo.MensajesRespuesta;
 final class AccesoDatos implements InterfaceAccesoDatos {
 
 	/**
-	 * Constantes para los campos del properties.
+	 * Constantes para los campos del properties. Modificación.
  	 * @author joseangel.martinez
 	 */
 	private enum ConstantesBaseDatos {

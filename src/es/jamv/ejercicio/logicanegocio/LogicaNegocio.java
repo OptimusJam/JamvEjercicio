@@ -1,7 +1,7 @@
 /**
  * 
  */
-package es.sherpa.ejercicio.logicanegocio;
+package es.jamv.ejercicio.logicanegocio;
 
 import javax.ws.rs.core.MediaType;
 
@@ -10,10 +10,10 @@ import org.json.JSONObject;
 import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.WebResource;
 
-import es.sherpa.ejercicio.accesodatos.FactoriaAccesoDatos;
-import es.sherpa.ejercicio.accesodatos.InterfaceAccesoDatos;
-import es.sherpa.ejercicio.modelo.MensajesRespuesta;
-import es.sherpa.ejercicio.modelo.Modelo;
+import es.jamv.ejercicio.accesodatos.FactoriaAccesoDatos;
+import es.jamv.ejercicio.accesodatos.InterfaceAccesoDatos;
+import es.jamv.ejercicio.modelo.MensajesRespuesta;
+import es.jamv.ejercicio.modelo.Modelo;
 
 /**
  * @author joseangel.martinez

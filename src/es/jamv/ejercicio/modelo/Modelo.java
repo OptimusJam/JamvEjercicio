@@ -3,7 +3,7 @@
  *
  */
 
-package es.sherpa.ejercicio.modelo;
+package es.jamv.ejercicio.modelo;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;

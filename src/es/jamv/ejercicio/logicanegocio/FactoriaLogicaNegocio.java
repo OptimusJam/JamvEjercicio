@@ -1,7 +1,7 @@
 /**
  * 
  */
-package es.sherpa.ejercicio.logicanegocio;
+package es.jamv.ejercicio.logicanegocio;
 
 /**
  * @author joseangel.martinez
