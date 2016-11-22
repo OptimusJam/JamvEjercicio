@@ -33,6 +33,8 @@ public class ResourceNuevo {
 		//Se accede a la lógica de negocio
 		InterfaceLogicaNegocio objLogicaNegocio = new FactoriaLogicaNegocio().obtenerLogicaNegocio();
 		
+		//Realización de algo.
+		
 		objModelo = objLogicaNegocio.realizaProceso(nombre, codigoPostal);
 		
         return objModelo;
