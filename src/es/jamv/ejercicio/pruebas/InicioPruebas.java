@@ -28,7 +28,7 @@ public class InicioPruebas {
 	Client cliente = null;
 	WebResource recurso = null;
 	
-	private String UrlServicio = "http://127.0.0.1:8080/SherpaEjercicioJava/rest/getCiudad";	
+	private String UrlServicio = "http://127.0.0.1:8080/JamvEjercicioJava/rest/getCiudad";	
 	
 	@Before
 	public void previoPrueba() {		
